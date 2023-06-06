@@ -22,11 +22,3 @@ If you have a request and want to work to implement it, please create an issue t
 #### :bug: Reporting Bugs
 
 <sub>To report a bug, provide a clear and concise summary of the issue encountered. Include information such as the project version or commit details, operating system and hardware specifications, and any other dependencies. Describe the steps to reproduce the bug and provide expected and actual behavior details. Attach relevant screenshots(if applies), error messages, logs, or error traces. Mention if the bug is reproducible consistently or intermittently and provide any additional context that might help identify the issue.</sub>
-
-
-#### :construction: Contributors and maintainers
-<sub>
-
-- [Jeyson Antonio Flores Deras](https://github.com/JeysonFlores) - **Founder and maintainer**
-
-</sub>
